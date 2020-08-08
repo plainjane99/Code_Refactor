@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Generic Styling Section Start */
+
 body {
     background-color: #d9dcd6;
     color: #ffffff;
@@ -18,16 +20,18 @@ p {
     font-size: 16px;
 }
 
+/* Generic Styling Section End */
+
 /* Header Section Start */
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
 }
 
 .header h1 {
     display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 48px;
 }
 
@@ -53,6 +57,8 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Header Section End */
 
 .hero {
     height: 800px;
