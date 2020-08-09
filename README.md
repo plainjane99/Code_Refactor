@@ -13,6 +13,9 @@
 * The challenge is deployed at the following live URL:
 https://plainjane99.github.io/Code_Refactor/
 
+You should see the following:
+![Screenshot](./readme_screenshot.png)
+
 * The application code for this challenge is located at the following GitHub repository:
 https://github.com/plainjane99/Code_Refactor
 
@@ -43,6 +46,8 @@ The instructor asked the class during our last session for any "a-ha" moments, o
 1. Semantic elements - I understand the purpose of non-semantic vs semantic elements.  Going into the challenge, I was still unsure why there were so many types of words that seemed to do the same thing.  I have learned that semantic elements help the developer and the browser understand the content being added/displayed.
 
 2. Chrome Developer Tools and Application of CSS selectors - I had a pretty good understanding of how CSS selectors worked, but there were a few instances while I was consolidating code where I did not understand why a piece of html had a certain property.  Prior to starting the challenge, I was also not understanding how to use the Chrome Developer Tools effectively.  During this challenge, I happen to stumble upon that a-ha moment while troubleshooting the CSS selectors and learned that the default Chrome style characteristics are listed under "user agent stylesheet".  It suddenly became much clearer on how to troubleshoot and what styles were redundant in the challenge.
+
+3.  Markdown - I learned that markdown can be viewed as a Preview in VS Code.  Unfortunately it doesn't seem to be able to test out any Table-of-Contents links. 
 
 ## More A-ha in the Future, aka Challenges to Get Over <a name="challenges"></a>
 
