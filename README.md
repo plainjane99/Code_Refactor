@@ -38,7 +38,7 @@ Overall, I found this to be an excellent challenge.  Going through the Lessons f
 
 ## Lessons Learned <a name="lessons"></a>
 
-The instructor asked the class during our last session of any "a-ha" moments of which I had none.  Now that I have completed this challenge, here are my two most significant "a-ha" moments:
+The instructor asked the class during our last session for any "a-ha" moments, of which I had none.  Now that I have completed this challenge, here are my two most significant "a-ha" moments:
 
 1. Semantic elements - I understand the purpose of non-semantic vs semantic elements.  Going into the challenge, I was still unsure why there were so many types of words that seemed to do the same thing.  I have learned that semantic elements help the developer and the browser understand the content being added/displayed.
 
@@ -50,6 +50,8 @@ The challenges I know I have ahead of me include:
 
 1. Setting up my repository in GitHub without help
 2. Positioning of text and images to create a beautiful format
+
+Thanks for reading this README.md.
 
 
 
