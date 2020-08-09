@@ -6,7 +6,7 @@
 * [Description of Challenge](#description)
 * [Execution of the Challenge](#execution)
 * [Lessons Learned](#lessons)
-* [More A-ha in the Future, aka Challenges to Get Over](#aha)
+* [More A-ha in the Future, aka Challenges to Get Over](#challenges)
 
 ## Deployment <a name="deploy"></a>
 
@@ -17,7 +17,7 @@ https://plainjane99.github.io/Code_Refactor/
 https://github.com/plainjane99/Code_Refactor
 
 
-## Description of Challenge
+## Description of Challenge <a name="description"></a>
 
 The Week 1 Challenge for the UCLA Extension Full Stack Development Bootcamp was to refactor existing code to meet a set of acceptance criteria.  To refractor a code is to restructure the code without changing its behavior. The acceptance criteria included:  
 
@@ -32,11 +32,11 @@ The Week 1 Challenge for the UCLA Extension Full Stack Development Bootcamp was 
 
 Once the acceptance criteria were met, the challenge was to be deployed to a live URL through GitHub and to have the webpage load with no errors.  
 
-## Execution of the Challenge
+## Execution of the Challenge <a name="execution"></a>
 
 Overall, I found this to be an excellent challenge.  Going through the Lessons for the Week 1 module prior to this challenge felt like a game of catch-up as well as a rush to get through as many lessons as possible in case the information was needed during class.  There is also the matter that I worried I was falling behind due to my less-than-ideal start.  Executing the lessons in this manner meant there were times when I would get through a lesson with minimal understanding before moving on to the next lesson.  This challenge presented itself with excellent wording that forced me to critically analyze each instructional line.  It was apparent the instructions were giving me hints; I just had to figure out what it was telling me.  I began the challenge feeling a bit of dread but have completed the challenge feeling much more confident in what I have learned in the last seven days.
 
-## Lessons Learned
+## Lessons Learned <a name="lessons"></a>
 
 The instructor asked the class during our last session of any "a-ha" moments of which I had none.  Now that I have completed this challenge, here are my two most significant "a-ha" moments:
 
@@ -44,7 +44,7 @@ The instructor asked the class during our last session of any "a-ha" moments of 
 
 2. Chrome Developer Tools and Application of CSS selectors - I had a pretty good understanding of how CSS selectors worked, but there were a few instances while I was consolidating code where I did not understand why a piece of html had a certain property.  Prior to starting the challenge, I was also not understanding how to use the Chrome Developer Tools effectively.  During this challenge, I happen to stumble upon that a-ha moment while troubleshooting the CSS selectors and learned that the default Chrome style characteristics are listed under "user agent stylesheet".  It suddenly became much clearer on how to troubleshoot and what styles were redundant in the challenge.
 
-## More A-ha in the Future, aka Challenges to Get Over
+## More A-ha in the Future, aka Challenges to Get Over <a name="challenges"></a>
 
 The challenges I know I have ahead of me include:
 
