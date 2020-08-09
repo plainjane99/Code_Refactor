@@ -5,10 +5,10 @@
 * [Deployment](#deploy)
 * [Description of Challenge](#description)
 * [Execution of the Challenge](#execution)
-* [Lessons Learned] (#lessons)
+* [Lessons Learned](#lessons)
 * [More A-ha in the Future, aka Challenges to Get Over](#aha)
 
-## Deployment
+## Deployment <a name="deploy"></a>
 
 * The challenge is deployed at the following live URL:
 https://plainjane99.github.io/Code_Refactor/
